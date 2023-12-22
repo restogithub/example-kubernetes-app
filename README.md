@@ -1,2 +1,2 @@
 # example-kubernetes-app
-Example Kubernetes app files as demonstrate in KodeKloud's DevOps Udemy course
+Example Kubernetes app files as demonstrated in KodeKloud's DevOps Udemy course
